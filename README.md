@@ -9,7 +9,7 @@
 
 - 克隆代码库：使用git clone命令从GitHub克隆代码库到本地。例如：
  ```
-    git clone https://github.com/codeBaade/renjianfa_test.git
+    git clone https://github.com/keyFafa/GitTest.git
  ```
 - 切换到代码库目录：使用cd命令进入克隆的代码库目录。例如：
 ```
